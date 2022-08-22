@@ -16,3 +16,6 @@ class Article(models.Model):
         return self.headline
 
 print("starting file")
+print("starting file")
+print("starting file")
+print("starting file")
